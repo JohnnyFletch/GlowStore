@@ -1,0 +1,24 @@
+.navbar-fixed-top {
+    top: auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.item-btn {
+    background-color: #A4295B !important;
+    border-color: black !important;
+}
+.item-btn:hover {
+    background-color: #c6678d !important;
+    border-color: black !important;
+}
+.header09 {
+    background-color: rgb(231, 199, 224) !important;
+}
+.glow {
+    color: #65062c !important;
+}
+.height {
+    height: 300px;
+}
